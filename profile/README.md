@@ -27,27 +27,23 @@ Ce laboratoire s'appuie sur des technologies variées, allant du contrôle maté
   - Algorithmes de Bruit (Perlin),
   - Hachage Spatial,
   - Génération sur grilles 2D
-* **Domaines d'expertise :**
-  - Programmation multithreadée,
-  - arithmétique de pointeurs,
-  - architectures logicielles modulaires.
+
+
+
+
+
 
 ---
 
 ## 🚀 Projets Phares (Ecosystème)
 
-### ⛰️ 3DC - Moteur de Rendu Voxel Natif
-Moteur 3D natif codé en **C** dédié à la génération de paysages procéduraux.
-*   **Technologie :** C, Raylib
-*   **Rendu :** Implémentation de shaders **GLSL** personnalisés pour un rendu visuel optimisé.
-*   **Génération :** Algorithmes de bruit de Perlin pour la topologie des terrains en voxels.
-*   [🔗 Explorer le code source](#) *(Remplace par le lien vers le dépôt)*
 
-### 🌌 StellarHash - Générateur de Systèmes Déterministes
-Architecture logicielle de génération procédurale reposant sur un système de hachage spatial performant.
-*   **Technologie :** Rust, Bevy Engine
-*   **Logique :** Génération spatiale déterministe et gestion optimisée des entités pour la création de systèmes.
-*   [🔗 Explorer le code source](#) *(Remplace par le lien vers le dépôt)*
+
+
+
+
+
+
 
 ---
 
@@ -59,9 +55,6 @@ L'objectif de **ProceduralDynamics** n'est pas seulement de produire un résulta
 
 ## 📬 Contact & Mainteneur
 
-**ProceduralDynamics** est fondé et maintenu par **Mathys Fernandez**. 
-Étudiant en ingénierie logicielle (Licence 3) visant des rôles de développeur spécialisé et de chef de projet IT.
 
-*   💼 [LinkedIn](#) *(Insérer ton lien)*
-*   🌐 [Portfolio / Site Web](#) *(Insérer ton lien si applicable)*
-*   ✉️ [Me contacter](#) *(Insérer ton email)*
+*   💼 [Mathys Fernandez](https://github.com/MathysFernandez) 
+*   ✉️ [Me contacter](mathys.fernandez5572@gmail.com)
