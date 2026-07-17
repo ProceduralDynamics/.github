@@ -56,5 +56,5 @@ L'objectif de **ProceduralDynamics** n'est pas seulement de produire un résulta
 ## 📬 Contact & Mainteneur
 
 
-*   💼 [Mathys Fernandez](#https://github.com/MathysFernandez) 
-*   ✉️ [Me contacter](#) *(mathys.fernandez5572@gmail.com)*
+*   💼 [Mathys Fernandez](https://github.com/MathysFernandez) 
+*   ✉️ [Me contacter](mathys.fernandez5572@gmail.com)
