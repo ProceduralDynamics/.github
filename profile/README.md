@@ -1,8 +1,8 @@
 # 🪐 ProceduralDynamics
 
-**Laboratoire d'ingénierie logicielle dédié à la génération procédurale, aux moteurs natifs et aux architectures déterministes.**
+**Software engineering laboratory dedicated to procedural generation, native engines, and deterministic architectures.**
 
-Nous concevons des écosystèmes logiciels optimisés, en nous concentrant sur les mathématiques appliquées à la création d'univers virtuels.
+We design optimized software ecosystems, focusing on applied mathematics for the creation of virtual universes.
 
 
 
@@ -10,19 +10,22 @@ Nous concevons des écosystèmes logiciels optimisés, en nous concentrant sur l
 
 
 ---
-## 🛠️ Stack Technique & Expertise
+## 🛠️ Technical Stack & Expertise
 
-Ce laboratoire s'appuie sur des technologies variées, allant du contrôle matériel bas niveau au scriptage orienté objet, pour garantir une flexibilité totale dans nos générations :
+This laboratory relies on a variety of technologies, ranging from low-level hardware control to object-oriented scripting, to ensure complete flexibility in our generations:
 
-* **Langages :**     
+
+* **Languages :**     
   - C,
   - Rust,
   - Python
-* **Moteurs & Frameworks :**   
+    
+* **Engines & Frameworks :**   
   - [Raylib](https://www.raylib.com/),
   - [Bevy](https://bevy.org/),
   - [Pygame](https://www.pygame.org/news)
-* **Graphique & Mathématiques :**
+    
+* **Graphics & Mathematics :**
   - Shaders GLSL,
   - Algorithmes de Bruit (Perlin),
   - Hachage Spatial,
@@ -35,7 +38,7 @@ Ce laboratoire s'appuie sur des technologies variées, allant du contrôle maté
 
 ---
 
-## 🚀 Projets Phares (Ecosystème)
+## 🚀 Flagship Projects (Ecosystem)
 
 
 
@@ -47,14 +50,17 @@ Ce laboratoire s'appuie sur des technologies variées, allant du contrôle maté
 
 ---
 
-## 📐 Architecture & Philosophie
+## 📐 Architecture & Philosophy
 
-L'objectif de **ProceduralDynamics** n'est pas seulement de produire un résultat visuel, mais de concevoir une architecture de code irréprochable. Nos dépôts illustrent une séparation stricte des préoccupations : de la logique mathématique pure (hachage, bruit) jusqu'au pipeline de rendu graphique.
+The goal of **ProceduralDynamics** is not merely to produce a visual result, but to design a flawless code architecture. Our repositories illustrate a strict separation of concerns: from pure mathematical logic (hashing, noise) to the graphical rendering pipeline.
+
+
+
 
 ---
 
-## 📬 Contact & Mainteneur
+## 📬 Contact & Maintainer
 
 
 *   💼 [Mathys Fernandez](https://github.com/MathysFernandez) 
-*   ✉️ [Me contacter](mathys.fernandez5572@gmail.com)
+*   ✉️ [Contact me](mathys.fernandez5572@gmail.com)
